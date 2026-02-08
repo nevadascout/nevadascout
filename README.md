@@ -3,7 +3,7 @@
 ### Quick Intro
 
 - 💻 Staff Software Engineer at [Jamf](https://github.com/jamf)
-- ⏰ >11 years of experience in commercial software development
+- ⏰ 12+ years of experience in commercial software development
 - 🌱 Full Stack experience (Angular + PHP &amp; C#/.NET)
 - ⚡ Interested in web technologies, especially front-end
 - 🇵🇱 Originally from the UK, now living in Poland
